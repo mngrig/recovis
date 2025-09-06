@@ -1,6 +1,6 @@
 # Recovis
 
-**Recovis** is a system for recording and visualizing outpatient vital signs and monitoring data using smartphones, developed as part of my BSc-Integrated MSc [diploma thesis](https://polynoe.lib.uniwa.gr/xmlui/bitstream/handle/11400/7332/ice_18390071.pdf).
+**Recovis** is a system for recording and visualizing outpatient vital signs and monitoring data using smartphones, developed as part of my BSc-Integrated MSc [diploma thesis](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/7332).
 It consists of three main components: an Android app for patients, a web application for doctors, and a backend API to manage and store medical data.
 
 ---
