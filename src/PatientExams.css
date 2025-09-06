@@ -1,0 +1,33 @@
+/* PatientExams.css */
+.table-container {
+    position: relative;
+    overflow-y: auto; /* Enable vertical scrolling */
+    overflow-x: hidden; /* Hide the horizontal overflow initially */
+    padding-bottom: 20px; /* Space for the scrollbar */
+}
+
+.table-responsive {
+    overflow-x: auto; /* Enable horizontal scrolling */
+    white-space: nowrap; /* Prevent text wrapping in table */
+}
+
+.sticky-scroll {
+    position: sticky;
+    bottom: 0;
+    height: 20px; /* Adjust this height as needed */
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.sticky-scroll div {
+    width: 200%; /* Make this width large enough to show the scrollbar */
+    height: 20px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
